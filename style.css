@@ -12,7 +12,7 @@ body{
 }
 .container{
     display: grid;
-    grid-template-columns:20% 80%;
+    grid-template-columns:30% 70%;
     width: 80%;
     height: 60vh;
     margin-top: 20vh;
@@ -49,8 +49,6 @@ body{
     margin-top: 20px;
 
 }
-
-    
 .sidebar > .name{
     display: flex;
 }
@@ -71,7 +69,6 @@ body{
 }
 .right > div{
     padding: 1.5rem;
-    /* border-radius: 20px; */
 }
 .col1{
     display: flex;
@@ -121,7 +118,7 @@ body{
     z-index: 3;
 }
 h1{
-    font-size: 4rem;
+    font-size: 3rem;
 }
 .heading{
     display: flex;
@@ -134,7 +131,7 @@ h1{
     align-items: center;
     flex-direction: column;
     gap: 1rem;
-    margin-top: 50px;
+    margin-top: 10px;
 }
 .exercise{
     background-color: #4bcf83;
